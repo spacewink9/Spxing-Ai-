@@ -12,7 +12,7 @@ Spirituality and Alchemy: Explore philosophical and spiritual topics with Spxing
 Internet Connectivity: Access the internet without the need for API keys, perform web searches, retrieve information, and provide accurate answers.
 Control Panel: Manage Spxing AI's features and settings through a web-based control panel, including user profiles and system updates.
 Installation
-Clone the Spxing AI repository: git clone https://github.com/your-username/spxing-ai.git
+Clone the Spxing AI repository: git clone https://github.com/spacewink9/Spxing-Ai-
 Navigate to the project directory: cd spxing-ai
 Install the required dependencies: pip install -r requirements.txt
 Launch Spxing AI: python main.py
