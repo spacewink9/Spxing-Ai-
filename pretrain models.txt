@@ -1,0 +1,45 @@
+spxing/resources/pretrained_models/
+|-- sentiment_analysis/
+|   |-- model.pkl
+|   |-- tokenizer.pkl
+|-- named_entity_recognition/
+|   |-- model.pkl
+|   |-- tokenizer.pkl
+|-- image_classification/
+|   |-- model.h5
+|-- speech_recognition/
+|   |-- model.pb
+|-- language_translation/
+|   |-- model.bin
+|-- chatbot/
+|   |-- model.pt
+|-- emotion_detection/
+|   |-- model.pth
+|-- face_recognition/
+|   |-- model.pth
+|-- object_detection/
+|   |-- model.pb
+|-- speech_synthesis/
+|   |-- model.h5
+|-- question_answering/
+|   |-- model.pt
+|-- text_generation/
+|   |-- model.pt
+|-- speech_emotion_analysis/
+|   |-- model.h5
+|-- speech_command_recognition/
+|   |-- model.h5
+|-- style_transfer/
+|   |-- model.pt
+|-- image_captioning/
+|   |-- model.h5
+|-- handwriting_recognition/
+|   |-- model.h5
+|-- text_summarization/
+|   |-- model.pt
+|-- anomaly_detection/
+|   |-- model.pkl
+|-- face_generation/
+|   |-- model.h5
+|-- face_verification/
+|   |-- model.pt
