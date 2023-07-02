@@ -38,9 +38,6 @@ Contributions to Spxing AI are welcome! If you want to contribute to the project
 
 If you encounter any issues or have questions, please refer to the TROUBLESHOOTING.md file for common problems and solutions. If your issue persists, feel free to open an issue in the GitHub repository.
 
-## License
-
-The Spxing AI project is licensed under the MIT License.
 
 ## Upcoming Updates and Future Ideas
 
@@ -71,3 +68,7 @@ Spxing AI is an evolving project with exciting future updates and ideas. Here ar
 These upcoming updates and futuristic technologies will enhance the capabilities of Spxing AI and pave the way for an advanced and intelligent artificial intelligence system.
 
 Feel free to customize and expand upon this template to provide more details about your project, including additional features and ideas.
+
+## License
+
+The Spxing AI project is licensed under the MIT License.
